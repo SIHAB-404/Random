@@ -8,7 +8,7 @@ git clone https://github.com/SIHAB-404/Random.git
 cd Random 
 
 
-python error 
+python error.py
 
 
 Thanks for using my tools❤️‍🩹
